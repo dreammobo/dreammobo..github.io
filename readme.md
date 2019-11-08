@@ -1,6 +1,4 @@
-# Structured documents
-
-### Sitemap
+# Sitemap
 
 ---
 permalink: /index.html
